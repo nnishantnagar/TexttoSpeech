@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextToSpeech</string>
+    <string name="tap_button_to_listen">Tap Button to Listen</string>
+    <string name="button">Button</string>
+</resources>
